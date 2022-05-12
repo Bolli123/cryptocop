@@ -1,0 +1,9 @@
+{
+    "exchangeName": "cryptocop_exchange",
+    "routingKey": "create-order",
+    "host": "message-broker",
+    "virtualhost": "/",
+    "user": "cryptocop",
+    "password": "pass",
+    "messageBrokerHost": "cryptocop:pass@message-broker/"
+}
